@@ -1,0 +1,6 @@
+---
+Name: userformconversion
+---
+SilverStripe\UserForms\Model\UserDefinedForm:
+    extensions:
+        - PurpleSpider\UserFormsConversion\UserDefinedFormConversionExtension
