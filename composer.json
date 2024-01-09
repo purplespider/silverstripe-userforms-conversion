@@ -13,6 +13,6 @@
 		"issues": "https://github.com/purplespider/silverstripe-userforms-conversion/issues"
 	},
 	"require": {
-		"silverstripe/userforms": "5.*"
+		"silverstripe/userforms": "6.*"
 	}
 }
